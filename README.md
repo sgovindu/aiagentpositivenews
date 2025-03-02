@@ -10,3 +10,10 @@ Most of the agentic frameworks interact with LLM through Json blobs. However, Sm
 
 # Positive headline news
 Currently if you go through any news paper headlines, you might wonder why the world is full of negativity. Using agentic frameworks, positive headline news filters out all news headlines and displays only headlines that evokes positive emotions.
+
+**Prerequisites**
+1. Create a huggingface account if not done
+2. Generate a HF_TOKEN
+3. Login to hf using python or cli
+4. pip install smolagents
+5. python positivenewsheadline.py 
